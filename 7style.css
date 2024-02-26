@@ -1,0 +1,42 @@
+
+img{
+    height: 200px;
+    width: 150px;
+    background: #000;
+}
+
+.card{
+    padding: 10px;
+    position: absolute;
+    background-color: #fff;
+    border: 1px solid;
+    width: auto;
+    height: auto;
+    border-radius:  5px;
+
+
+}
+
+
+
+.card:hover {
+  z-index: 3;
+}
+
+.card-1 {
+  background-color: #f51b1b;
+  color: #00000000;
+}
+
+.card-2 {
+  margin-top: 90px;
+  background-color: #e100ff;
+  margin-left: 30px;
+}
+
+.card-3 {
+  position: absolute;
+  margin-top: 170px;
+  background-color: #4400ffd8;
+  margin-left: 100px;
+}

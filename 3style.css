@@ -1,0 +1,45 @@
+
+.main {
+  width: 300px;
+  height: 650px;
+  background-color: #f8f9fa;
+  border: 1px solid black;
+  padding: 5px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    text-align: center;
+    font-size: xx-large;
+    font-style: bold;
+    font-size:25px ;
+    padding: 0%;
+    margin: 0%;
+    border: 0cap;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.logo {
+  text-align: center;
+}
+img {
+  width: 150px;
+}
+.title {
+  font-size: 13px;
+}
+.section-left {
+  float: left;
+  width: 50%;
+}
+.section-right {
+  float: right;
+  width: 50%;
+}
+.left-text {
+  font-size: 12px;
+  font-weight: bold;
+  color: #4966cc;
+}
+.right-text {
+  font-size: 12px;
+}
